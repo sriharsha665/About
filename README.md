@@ -1,15 +1,15 @@
 <!-- Title and Greeting -->
-# Hi there, I'm [PAPPU SRI HARSHA] 👋
+# Hi there, I'm PAPPU SRI HARSHA👋
 
-Welcome to my GitHub profile! I'm a [frontend - developer] with a passion for [new Technologies].
+Welcome to my GitHub profile! I'm a frontend - developer with a passion for new Technologies.
 
 <!-- Badges Section -->
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/your-repo?color=orange)
 
 <!-- About Me Section -->
 ## About Me
-- 🌱 I’m currently learning [Front-End Development/advanced python].
-- 💼 I'm looking for [Job Opportunities/Internships/Collaborations].
+- 🌱 I’m currently learning Front-End Development/advanced python.
+- 💼 I'm looking for Job Opportunities/Internships/Collaborations.
 
 <!-- Technologies Section -->
 ## Technologies & Tools
@@ -44,7 +44,7 @@ Here are some of my favorite projects:
 
 <!-- Connect with Me Section -->
 ## Connect with Me
-- [LinkedIn]([(https://www.linkedin.com/in/sriharshapappu)])
+- [LinkedIn](https://www.linkedin.com/in/sriharshapappu)
 
 - [Personal Website/Portfolio](https://yourwebsite.com)
 
